@@ -12,7 +12,6 @@ authors:
 title: "TuxKConfig: A Challenge on Performance and Evolution Analysis of Large-Scale Kernel Configurations"
 version: 1.0.0
 date-released: 2025-08-22
-doi: 10.5281/zenodo.example (Lacuna: Replace with actual Zenodo DOI if created)
 url: "https://github.com/heraldoborges/tuxkconfig-miningchallenge"
 preferred-citation:
   type: conference-paper
