@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this dataset or repository, please cite it as below."
+authors:
+  - family-names: Borges
+    given-names: Heraldo
+  - family-names: Pereira
+    given-names: Juliana Alves
+  - family-names: Khelladi
+    given-names: Djamel Eddine
+  - family-names: Acher
+    given-names: Mathieu
+title: "TuxKConfig: A Challenge on Performance and Evolution Analysis of Large-Scale Kernel Configurations"
+version: 1.0.0
+date-released: 2025-08-22
+doi: 10.5281/zenodo.example (Lacuna: Replace with actual Zenodo DOI if created)
+url: "https://github.com/heraldoborges/tuxkconfig-miningchallenge"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Borges
+      given-names: Heraldo
+    - family-names: Pereira
+      given-names: Juliana Alves
+    - family-names: Khelladi
+      given-names: Djamel Eddine
+    - family-names: Acher
+      given-names: Mathieu
+  collection-title: MSR 2026 Proceedings
+  title: "TuxKConfig: A Challenge on Performance and Evolution Analysis of Large-Scale Kernel Configurations"
+  year: 2026
